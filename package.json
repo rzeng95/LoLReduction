@@ -1,0 +1,16 @@
+{
+  "name": "lolreduction",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "roland zeng",
+  "license": "ISC",
+  "description": "CS170 Final Project, code used to populate xls spreadsheet",
+  "dependencies": {
+    "async": "^1.5.2",
+    "msexcel-builder": "0.0.2",
+    "request": "^2.69.0"
+  }
+}
