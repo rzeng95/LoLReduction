@@ -3,6 +3,9 @@
 
 Roland Zeng
 
+### Results  
+Check out "Report.pdf" for my analysis of League of Legends champion strength.
+
 ### How to Run
 * Download NodeJS  (https://nodejs.org)  
 * Download all the files from this repository  
